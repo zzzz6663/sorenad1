@@ -113,7 +113,7 @@
     <script src="{{ asset('/admin/assets/js/persian-datepicker.js') }}"></script>  --}}
     {{--  <script src="{{ asset('/home/js/jquery.mmenu.min.all.js') }}"></script>  --}}
     {{--  <script type="text/javascript" src="{{ asset('/common/tinymce/tinymce.min.js') }}"></script>  --}}
-    {{--  <script src="{{ asset('/admin/') }}"></script>  --}}
+    {{--  <script src="{{ asset('/admins/') }}"></script>  --}}
     @vite( 'resources/js/app.js')
 
 
