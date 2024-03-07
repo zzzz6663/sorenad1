@@ -37,6 +37,9 @@
             "Tests\\": "tests/"
         }
     },
+    "classmap": [
+        "app/commands"
+    ],
     "scripts": {
         "post-autoload-dump": [
             "Illuminate\\Foundation\\ComposerScripts::postAutoloadDump",
