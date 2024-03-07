@@ -6324,34 +6324,34 @@
         },
         {
             "name": "shetabit/payment",
-            "version": "v5.7.0",
-            "version_normalized": "5.7.0.0",
+            "version": "v5.8.0",
+            "version_normalized": "5.8.0.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/shetabit/payment.git",
-                "reference": "9b210d4716b61e98a1408405b7a1435aef9844a9"
+                "reference": "969534e9a15882a40aa0d5639cd7817b13b3c9a1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/shetabit/payment/zipball/9b210d4716b61e98a1408405b7a1435aef9844a9",
-                "reference": "9b210d4716b61e98a1408405b7a1435aef9844a9",
+                "url": "https://api.github.com/repos/shetabit/payment/zipball/969534e9a15882a40aa0d5639cd7817b13b3c9a1",
+                "reference": "969534e9a15882a40aa0d5639cd7817b13b3c9a1",
                 "shasum": ""
             },
             "require": {
-                "illuminate/broadcasting": "^5.0|^6.0|^7.0|^8.0|^9.0|^10.0",
-                "illuminate/support": "^5.0|^6.0|^7.0|^8.0|^9.0|^10.0",
+                "illuminate/broadcasting": "^5.0|^6.0|^7.0|^8.0|^9.0|^10.0|^11.0",
+                "illuminate/support": "^5.0|^6.0|^7.0|^8.0|^9.0|^10.0|^11.0",
                 "php": ">=7.2",
                 "shetabit/multipay": "^1.0"
             },
             "require-dev": {
-                "orchestra/testbench": "^3.0|^4.0|^5.0|^6.0|^7.0|^8.0",
+                "orchestra/testbench": "^3.0|^4.0|^5.0|^6.0|^7.0|^8.0|^9.0",
                 "phpunit/phpunit": "^6.0|^7.0|^8.0|^9.0|^10.0",
                 "squizlabs/php_codesniffer": "^3.5"
             },
             "suggest": {
                 "ext-soap": "Needed to support some drivers that required SOAP"
             },
-            "time": "2024-02-25T11:12:04+00:00",
+            "time": "2024-03-07T10:11:00+00:00",
             "type": "library",
             "extra": {
                 "laravel": {
@@ -6456,7 +6456,7 @@
             ],
             "support": {
                 "issues": "https://github.com/shetabit/payment/issues",
-                "source": "https://github.com/shetabit/payment/tree/v5.7.0"
+                "source": "https://github.com/shetabit/payment/tree/v5.8.0"
             },
             "install-path": "../shetabit/payment"
         },
