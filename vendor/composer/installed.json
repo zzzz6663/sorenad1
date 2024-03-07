@@ -232,7 +232,7 @@
             },
             "time": "2024-02-25T16:01:12+00:00",
             "type": "library",
-            "installation-source": "source",
+            "installation-source": "dist",
             "autoload": {
                 "psr-4": {
                     "chillerlan\\SimpleCache\\": "src"
@@ -303,7 +303,7 @@
             },
             "time": "2024-03-02T20:07:15+00:00",
             "type": "library",
-            "installation-source": "source",
+            "installation-source": "dist",
             "autoload": {
                 "psr-4": {
                     "chillerlan\\Settings\\": "src/"
@@ -4217,7 +4217,7 @@
                     "dev-master": "9.6-dev"
                 }
             },
-            "installation-source": "source",
+            "installation-source": "dist",
             "autoload": {
                 "files": [
                     "src/Framework/Assert/Functions.php"
@@ -6225,7 +6225,7 @@
             },
             "time": "2024-02-25T11:13:42+00:00",
             "type": "library",
-            "installation-source": "source",
+            "installation-source": "dist",
             "autoload": {
                 "psr-4": {
                     "Shetabit\\Multipay\\": "src"
@@ -6363,7 +6363,7 @@
                     }
                 }
             },
-            "installation-source": "source",
+            "installation-source": "dist",
             "autoload": {
                 "psr-4": {
                     "Shetabit\\Payment\\": "src"

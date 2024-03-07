@@ -14,6 +14,7 @@ yarn-error.log
 /.fleet
 /.idea
 /.vscode
+/vendor1
 
 /public/hot
 /public/hot/
